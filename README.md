@@ -1,5 +1,3 @@
-Here’s a basic README file using Markdown format that outlines the minimum specifications and instructions for your motion detection application:
-
 # Motion Detection System
 
 A simple motion detection application that captures video and sends email alerts with the recorded clip when motion is detected.
